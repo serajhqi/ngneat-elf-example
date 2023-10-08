@@ -1,5 +1,4 @@
-import { useEffect, useState } from "react";
-import { SearchRepository, SearchResult } from "../store/store"
+import { SearchRepository } from "../store/store"
 import { useObservable } from "@ngneat/react-rxjs";
 
 export default function Results(){
