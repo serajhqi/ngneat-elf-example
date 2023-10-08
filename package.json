@@ -12,6 +12,7 @@
   "dependencies": {
     "@ngneat/elf": "^2.4.0",
     "@ngneat/elf-cli": "^3.0.1",
+    "@ngneat/react-rxjs": "^1.1.0",
     "axios": "^1.5.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
